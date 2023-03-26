@@ -2,7 +2,7 @@
 echo "Set Assembly Version"
 VERSION=1.1.0
 PROJECT_DIR="./src"
-CSPROJECT_DLL="VerticesEngine.Physics.Bepu.csproj"
+CSPROJECT_DLL="VerticesEngine.Physics.Farseer.csproj"
 #DOX_PATH="./docs/Doxyfile"
 
 
